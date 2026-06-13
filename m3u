@@ -1,8 +1,6 @@
 #EXTM3U
 
-# =========================
 # FIFA 2026
-# =========================
 
 #EXTINF:-1 group-title="Server 1 FIFA 2026",Somoy Tv HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
