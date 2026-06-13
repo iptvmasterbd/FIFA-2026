@@ -11,17 +11,26 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/le
 #EXTINF:-1 group-title="Server 1 FIFA 2026",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 group-title="Server 1 FIFA 2026",T SPORTS HD
+#EXTINF:-1 group-title="Server 1 FIFA 2026",GO LIVE TV
+https://live11.asimxtech.online/golive/golive.m3u8
+
+#EXTINF:-1 group-title="Server 1 FIFA 2026",T SPORTS HD 1
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
-#EXTINF:-1 group-title="Server 2 FIFA 2026",Bein Sports 1 FIFA 2026 LIVE Server 1 
+#EXTINF:-1 group-title="Server 1 FIFA 2026",T SPORTS HD 2
+https://live1.asimxtech.online/tsports/index.m3u8
+
+#EXTINF:-1 group-title="Server 1 FIFA 2026",T SPORTS HD 3
+https://live4.asimxtech.online/tsports2/index.m3u8
+
+#EXTINF:-1 group-title="Server 1 FIFA 2026",PTV SPORTS
+https://live6.asimxtech.online/ptv/index.m3u8
+
+#EXTINF:-1 group-title="Server 1 FIFA 2026",Bein Sports 1 FIFA 2026 LIVE Server 1 
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="Server 2 FIFA 2026",Bein Sports 1 FIFA 2026 LIVE Server 2 
-https://banglalive-tau.vercel.app/cors-proxy/https/1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 group-title="Server 2 FIFA 2026",FIFA 2026 LIVE
-https://lb10.strmd.st/secure/lLRvQjUzrPfTZhlUUoILSvGTsREKelCY/rtmp/stream/0Q3FrPE5hlKV64OQXD1uPt6m5kqd1g9MBO4Z7mW-9cBCfCpLDgT4INVrWB_aS1MiigXjksa3/1/playlist.m3u8
+#EXTINF:-1 group-title="Server 1 FIFA 2026",United Sports
+https://live9.asimxtech.online/unite8/unite8.m3u8
 
 #EXTINF:-1 group-title="Server 1 FIFA 2026",Caze TV FIFA 2026
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -32,5 +41,5 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="Server 1 FIFA 2026",FIFA Plus B
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
 
-#EXTINF:-1 group-title="Server 2 FIFA 2026",MAHSUN Sports
+#EXTINF:-1 group-title="Server 1 FIFA 2026",MAHSUN Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
