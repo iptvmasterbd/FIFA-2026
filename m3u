@@ -10,8 +10,8 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdn
 #EXTINF:-1 group-title="Server 1 FIFA 2026",Fifa 2026 TV 2
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 group-title="Server 1 FIFA 2026",GO LIVE TV
-https://live11.asimxtech.online/golive/golive.m3u8
+#EXTINF:-1 group-title="Server 1 FIFA 2026",Fifa 2026 TV 03
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Server 1 FIFA 2026",T SPORTS HD 1
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
